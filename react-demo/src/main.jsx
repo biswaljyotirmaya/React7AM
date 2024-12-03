@@ -11,9 +11,11 @@ import ObjectBinding from "./components/Binding/object-binding.jsx";
 import { DateBinding } from "./components/Binding/date-binding.jsx";
 import Home from "./components/Netflix/Home.jsx";
 import EventBinding from "./components/Binding/event-binding.jsx";
+import EventPropagation from "./components/Binding/event-propagation.jsx";
+import AjaxPractice from "./components/Binding/ajax-practice.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <EventBinding/>
+    <AjaxPractice/>
   </StrictMode>
 );

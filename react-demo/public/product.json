@@ -1,0 +1,16 @@
+    {
+        "title":"Apple iPhone 16 (Teal, 256 GB)",
+        "price":89900,
+        "ratings":{
+            "rating":4.6,
+            "rate":15435,
+            "reviews":25456
+        },
+        "offers":[
+            "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "Bank OfferFlat ₹450 off on HDFC Bank Credit Card EMI Txns on 3 months tenure, Min. Txn Value: ₹7,500T&C",
+            "Bank Offer10% off up to ₹750 on HDFC Bank Credit Card EMI on 6 and 9 months tenure. Min. Txn Value: ₹7,500T&C",
+            "FreebieFlat 15% off on hotels up to 3999T&C"
+        ],
+        "image":"image.png"
+    }
