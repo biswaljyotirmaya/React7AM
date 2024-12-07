@@ -13,9 +13,14 @@ import Home from "./components/Netflix/Home.jsx";
 import EventBinding from "./components/Binding/event-binding.jsx";
 import EventPropagation from "./components/Binding/event-propagation.jsx";
 import AjaxPractice from "./components/Binding/ajax-practice.jsx";
+import MouseEvent from "./components/Binding/mouse-event.jsx";
+import Debounce from "./components/Binding/debounce-demo.jsx";
+import DebounceDemo2 from "./components/Binding/debounce-demo2.jsx";
+import FakestoreDemo from "./components/Binding/fakestore-product.jsx";
+import ClipBoard from "./components/Binding/clip-board.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <AjaxPractice/>
+    <ClipBoard />
   </StrictMode>
 );

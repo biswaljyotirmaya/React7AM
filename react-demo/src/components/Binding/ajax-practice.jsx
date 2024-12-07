@@ -75,6 +75,7 @@ function AjaxPractice() {
                   type="radio"
                   id="noExchange"
                   name="exchange"
+                  checked
                 />
                 <label htmlFor="noExchange">Buy without Exchange</label>
               </div>
