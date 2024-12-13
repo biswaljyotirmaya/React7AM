@@ -18,9 +18,18 @@ import Debounce from "./components/Binding/debounce-demo.jsx";
 import DebounceDemo2 from "./components/Binding/debounce-demo2.jsx";
 import FakestoreDemo from "./components/Binding/fakestore-product.jsx";
 import ClipBoard from "./components/Binding/clip-board.jsx";
+import ReactForms from "./components/Binding/reat-form.jsx";
+import FormitForms from "./components/Binding/formik-form.jsx";
+import FormikDemo from "./components/Froms/formik-demo.jsx";
+import YupDemo from "./components/Froms/formik-yup-demo.jsx";
+import FormikComponets from "./components/Froms/formik-components.jsx";
+import ReactHookForm from "./components/Froms/react-hook-form.jsx";
+import ControlledNavbar from "./components/Controlled Component/controlled-navbar.jsx";
+import ControlledGrid from "./components/Controlled Component/controlled-grid.jsx";
+import CustomDemo from "./components/Controlled Component/custom-demo.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <ClipBoard />
+    <CustomDemo />
   </StrictMode>
 );
